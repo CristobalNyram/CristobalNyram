@@ -17,7 +17,7 @@ Dos apps independientes:
 
 **Stack:** React.js · Express.js · MySQL · AWS S3 · EC2 · Tailwind · Material UI · Elasticsearch · New Relic · Ubuntu Server  
 **Links útiles:**  
-- [Landing page](https://trackerguy.online)  
+- [Landing page](https://trackerguy.lat)  
 - [Admin app](https://dispatchertest.trackerguy.online/auth/login)  
 - [Courier app](https://couriertest.trackerguy.online/auth/login)
 
@@ -72,7 +72,7 @@ Usuario: `TrainingMidasAlumno` / Contraseña: `123`
 ✉️ marrinmarrin23@gmail.com  
 📍 Huejotzingo, Puebla  
 📱 +52 1 249 262 3130  
-🌐 [trackerguy.online](https://trackerguy.online)
+🌐 [trackerguy.online](https://trackerguy.lat)
 
 ---
 
