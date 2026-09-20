@@ -9,7 +9,7 @@ He liderado proyectos desde cero, automatizado despliegues, optimizado sistemas 
 
 ## 🚀 Proyectos destacados
 
-### 🔹 [Tracker Guy](https://trackerguy.online/)
+### 🔹 [Tracker Guy](https://trackerguy.lat/)
 Sistema logístico de última milla  
 Dos apps independientes:
 - **Admin dispatcher** para seguimiento y control de entregas
@@ -72,7 +72,7 @@ Usuario: `TrainingMidasAlumno` / Contraseña: `123`
 ✉️ marrinmarrin23@gmail.com  
 📍 Huejotzingo, Puebla  
 📱 +52 1 249 262 3130  
-🌐 [trackerguy.online](https://trackerguy.lat)
+🌐 [trackerguy.lat](https://trackerguy.lat)
 
 ---
 
